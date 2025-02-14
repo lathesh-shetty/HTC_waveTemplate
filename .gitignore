@@ -1,0 +1,25 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Crash reports
+*.stacktrace
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+*.sln
+*.csproj
+
+# Unity packages
+Packages/*
+!Packages/manifest.json
+!Packages/packages-lock.json
